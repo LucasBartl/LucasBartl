@@ -20,10 +20,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasbartl&theme=tokyonight)
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasbartl&theme=tokyonight)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasbartl&theme=tokyonight" />
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasbartl&theme=tokyonight" />
+
+</div>
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbartl&theme=tokyonight)
 
 ---
