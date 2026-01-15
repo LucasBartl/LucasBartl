@@ -22,9 +22,10 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbartl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbartl)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbartl&layout=compact&theme=tokyonight"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbartl)
+
 
 </div>
 
