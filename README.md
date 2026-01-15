@@ -30,13 +30,7 @@
 
 ---
 
-## 🚀 Objetivo
-
-Busco uma oportunidade de **estágio ou posição júnior em desenvolvimento**, onde eu possa aprender, evoluir tecnicamente e contribuir com o time.
-
----
-
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com  
-- 🧑‍💻 GitHub: https://github.com/SEU_USUARIO
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-bartl-rodrigues-953a541a3/
+
