@@ -5,11 +5,16 @@ Olá! eu sou o Lucas
 - 👨‍💻 3 anos na area de infrestrutura ...
 - 📧  Contate-me pelo email : lucas.bartllb@gmail.com
 
+## 🧠 Skills & GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/lucasbartl">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucasbartl&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbartl&layout=compact&langs_count=7&theme=dracula"/>
-<div/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</div>
+
 
 <div>
   <a href="https://www.instagram.com/luc4s_bartl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
