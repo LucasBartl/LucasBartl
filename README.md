@@ -2,7 +2,7 @@
 
 🎯 Analista de Infraestrutura em transição para Desenvolvimento  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Focado em aprender e evoluir na área de desenvolvimento
+🚀 Focado em aprender, evoluir tecnicamente e migrar para a área de desenvolvimento
 
 ---
 
@@ -20,14 +20,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasbartl&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbartl)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasbartl&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbartl)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbartl&theme=tokyonight)
 
+---
 
-</div>
+## 🚀 Objetivo Profissional
+
+Busco uma oportunidade de **estágio ou posição júnior em desenvolvimento**, onde eu possa aplicar meus conhecimentos, aprender com o time e crescer profissionalmente na área de tecnologia.
 
 ---
 
