@@ -21,22 +21,29 @@
 ## 📊 GitHub Stats
 
 <!-- Cards superiores -->
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasbartl&theme=tokyonight" />
+  <img
+    width="420"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasbartl&theme=tokyonight"
+  />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasbartl&theme=tokyonight" />
+  <img
+    width="420"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasbartl&theme=tokyonight"
+  />
 
 </div>
 
 <br/>
 
 <!-- Card inferior -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbartl&theme=tokyonight" />
+<div style="display: flex; justify-content: center;">
+  <img
+    width="860"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbartl&theme=tokyonight"
+  />
 </div>
-
----
 
 ## 🚀 Objetivo Profissional
 
