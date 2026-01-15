@@ -1,11 +1,24 @@
-Olá! eu sou o Lucas 
+# 👋 Olá, eu sou o Lucas Rodrigues
 
-- 📚 estudante de Analise e desenvolvimento de softwares ...
-- 💻 Em busca de primeiro emprego como DEV...
-- 👨‍💻 3 anos na area de infrestrutura ...
-- 📧  Contate-me pelo email : lucas.bartllb@gmail.com
+🎯 Analista de Infraestrutura em transição para Desenvolvimento  
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Focado em aprender e evoluir na área de desenvolvimento
 
-## 🧠 Skills & GitHub Stats
+---
+
+## 🧠 Tecnologias
+
+- HTML | CSS | JavaScript  
+- Node.js  
+- Git & GitHub  
+- SQL  
+- Linux  
+- Cloud  
+- Java (em aprendizado)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -15,11 +28,15 @@ Olá! eu sou o Lucas
 
 </div>
 
+---
 
-<div>
-  <a href="https://www.instagram.com/luc4s_bartl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/lucasbartl#9310" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/lucas-bartl-rodrigues-953a541a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+## 🚀 Objetivo
 
-  <img width="700" height="200" src="https://media1.giphy.com/media/EpB8oRhHSQcnu/giphy.gif?cid=ecf05e47lyvco9i22hcgpddrk1s80kyf289582sfgqdoxe66&rid=giphy.gif&ct=g"/>
+Busco uma oportunidade de **estágio ou posição júnior em desenvolvimento**, onde eu possa aprender, evoluir tecnicamente e contribuir com o time.
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com  
+- 🧑‍💻 GitHub: https://github.com/SEU_USUARIO
