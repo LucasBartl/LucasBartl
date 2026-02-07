@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Rodrigues
+# 👋 Olá, eu sou o Lucas
 
 🎯 Analista de Infraestrutura em transição para Desenvolvimento  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
