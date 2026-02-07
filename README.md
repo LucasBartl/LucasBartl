@@ -9,12 +9,16 @@
 ## 🧠 Tecnologias
 
 - HTML | CSS | JavaScript  
-- Node.js  
+- Node.js
+- React
+- TypeScript
 - Git & GitHub  
 - SQL  
 - Linux  
 - Cloud  
 - Java (em aprendizado)
+- PHP
+- Laravel
 
 ---
 
