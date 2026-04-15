@@ -16,7 +16,6 @@
 - SQL  
 - Linux  
 - Cloud  
-- Java (em aprendizado)
 - PHP
 - Laravel
 
