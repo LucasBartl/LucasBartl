@@ -1,28 +1,30 @@
 <h1 align="center">Olá, eu sou Lucas Bartl 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor fullStack</strong>
+  <strong>Desenvolvedor Full-Stack &nbsp;·&nbsp; PHP · Laravel · React · Node.js &nbsp;·&nbsp; Cloud & DevOps</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-bartl-rodrigues-953a541a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/lucasbartl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:lucas.bartllb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lucasbartl&style=for-the-badge&color=0D1117" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lucasbartl&style=for-the-badge&color=2563EB" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🙋 Sobre mim
 
-Sou **Analista de Infraestrutura** em transição para desenvolvimento de software, cursando **Análise e Desenvolvimento de Sistemas**. Tenho experiência sólida em ambientes Linux, cloud e redes, e estou canalizando esse background técnico para me tornar um desenvolvedor completo.
+Sou **Desenvolvedor Full-Stack** com experiência prática em sistemas web usando **PHP, Laravel e React**, e sólida base em infraestrutura cloud (**Azure**), automação com **Terraform** e **Ansible**.
 
-Atualmente me aprofundo em **desenvolvimento web fullstack**, com foco em JavaScript, Node.js, React e TypeScript. Busco uma oportunidade de **estágio ou posição júnior** onde possa aplicar meus conhecimentos, contribuir com times ágeis e crescer profissionalmente.
+Já entreguei um **sistema completo em produção** — do zero — para gestão de consultório odontológico. Esse background em infraestrutura me dá uma visão sistêmica que poucos devs júniors têm: entendo o que acontece desde o código até o servidor.
 
-> 💡 *Infraestrutura me ensinou a pensar em sistemas. Agora estou aprendendo a construí-los.*
+Cursando **Análise e Desenvolvimento de Sistemas** e buscando uma oportunidade de **estágio ou posição júnior em desenvolvimento**.
+
+> 💡 *Infraestrutura me ensinou a pensar em sistemas. Desenvolvimento me ensina a construí-los.*
 
 ---
 
@@ -38,87 +40,84 @@ Atualmente me aprofundo em **desenvolvimento web fullstack**, com foco em JavaSc
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Banco de Dados & Infra**
+**Banco de Dados**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Projeto em Destaque
 
-> 🚧 *Esta seção está sendo construída. Em breve serão listados os projetos mais relevantes.*
+### 🦷 Sistema de Gestão para Consultório Odontológico &nbsp;`Em produção ✔`
 
-<!-- 
-Descomente e preencha quando tiver projetos para destacar:
+> Sistema web desenvolvido **do zero** para digitalizar a gestão administrativa de um consultório odontológico, substituindo processos manuais por fluxos automatizados.
 
-### 🔹 [Nome do Projeto](https://github.com/lucasbartl/nome-do-repo)
-Descrição breve do que o projeto faz e qual problema resolve.  
-`React` `Node.js` `TypeScript`
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-### 🔹 [Nome do Projeto 2](https://github.com/lucasbartl/nome-do-repo-2)
-Descrição breve do projeto.  
-`PHP` `Laravel` `MySQL`
--->
+- 🔐 Autenticação com controle de acesso por perfis (admin, atendente, profissional)
+- 👤 CRUD completo de pacientes com histórico de atendimentos paginado
+- 📅 Módulo de agendamento com validação de conflitos de horário
+- 👥 Controle de funcionários e profissionais terceirizados por especialidade
+- 🖼️ Identificação visual de usuários por imagem vinculada ao setor
+
+---
+
+## 💼 Experiência
+
+**Analista de Infraestrutura Júnior** — Sisloc Softwares LTDA `2023 – 2025`
+- Automação de provisionamento com **Terraform** e **Ansible** — setup de horas para minutos
+- Administração de ambientes **Azure** (VMs, redes, segurança) com alta disponibilidade
+- Integração de APIs internas com manipulação de dados **JSON**
+- Manutenção de bancos **SQL Server** e resolução de incidentes críticos em servidores Windows
+
+**Estagiário de Infraestrutura** — GPSCAR `2022 – 2023`
+- Suporte técnico, configuração de sistemas e gerenciamento de inventário de TI
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img
-    width="420"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasbartl&theme=tokyonight"
-  />
-  <img
-    width="420"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasbartl&theme=tokyonight"
-  />
-
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasbartl&theme=tokyonight"/>
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasbartl&theme=tokyonight"/>
   <br/>
-
-  <img
-    width="860"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbartl&theme=tokyonight"
-  />
-
+  <img width="860" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasbartl&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco uma oportunidade de **estágio ou posição júnior em desenvolvimento web** onde eu possa:
-
-- Contribuir com projetos reais em times de tecnologia
-- Aplicar e aprofundar meus conhecimentos em JavaScript, Node.js e React
-- Trazer minha experiência em infraestrutura como diferencial técnico
-- Crescer profissionalmente com mentoria e cultura de aprendizado contínuo
-
-Tenho disponibilidade para trabalho **presencial, híbrido ou remoto**.
+Busco uma oportunidade de **estágio ou posição júnior em desenvolvimento web** onde eu possa contribuir com projetos reais e crescer com o time. Disponível para trabalho **presencial, híbrido ou remoto** em Belo Horizonte ou de forma remota.
 
 ---
 
 ## 📫 Contato
 
-<p>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lucas-bartl-rodrigues-953a541a3/">linkedin.com/in/lucas-bartl-rodrigues</a><br/>
-  🧑‍💻 <strong>GitHub:</strong> <a href="https://github.com/lucasbartl">github.com/lucasbartl</a>
-</p>
+💼 **LinkedIn:** [linkedin.com/in/lucas-bartl-rodrigues](https://www.linkedin.com/in/lucas-bartl-rodrigues-953a541a3/)  
+✉️ **Email:** [lucas.bartllb@gmail.com](mailto:lucas.bartllb@gmail.com)  
+🧑‍💻 **GitHub:** [github.com/LucasBartl](https://github.com/lucasbartl)
 
 ---
 
-<p align="center">
-  <em>Aberto a conversas sobre oportunidades, colaborações e projetos interessantes. Fique à vontade para entrar em contato! 🚀</em>
-</p>
+<p align="center"><em>Aberto a oportunidades, colaborações e projetos interessantes. Fique à vontade para entrar em contato! 🚀</em></p>
