@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Lucas Bartl 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor em formação · Analista de Infraestrutura em transição para Dev</strong>
+  <strong>Desenvolvedor fullStack</strong>
 </p>
 
 <p align="center">
