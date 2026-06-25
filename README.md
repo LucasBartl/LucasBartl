@@ -68,13 +68,13 @@ Cursando **Análise e Desenvolvimento de Sistemas** e buscando uma oportunidade 
 
 ## 💼 Experiência
 
-**Analista de Infraestrutura Júnior** — Sisloc Softwares LTDA `2023 – 2025`
+**Analista de Infraestrutura Júnior** — Sisloc Softwares LTDA `2023 – 2026`
 - Automação de provisionamento com **Terraform** e **Ansible** — setup de horas para minutos
 - Administração de ambientes **Azure** (VMs, redes, segurança) com alta disponibilidade
 - Integração de APIs internas com manipulação de dados **JSON**
 - Manutenção de bancos **SQL Server** e resolução de incidentes críticos em servidores Windows
 
-**Estagiário de Infraestrutura** — GPSCAR `2022 – 2023`
+**Estagiário de Infraestrutura** — GPSCAR `2021 – 2022`
 - Suporte técnico, configuração de sistemas e gerenciamento de inventário de TI
 
 ---
