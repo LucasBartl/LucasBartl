@@ -64,23 +64,7 @@ Cursando **Análise e Desenvolvimento de Sistemas** e buscando uma oportunidade 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 
----
 
-## 🚀 Projeto em Destaque
-
-### 🦷 Sistema de Gestão para Consultório Odontológico &nbsp;`Em produção ✔`
-
-> Sistema web desenvolvido **do zero** para digitalizar a gestão administrativa de um consultório odontológico, substituindo processos manuais por fluxos automatizados.
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-- 🔐 Autenticação com controle de acesso por perfis (admin, atendente, profissional)
-- 👤 CRUD completo de pacientes com histórico de atendimentos paginado
-- 📅 Módulo de agendamento com validação de conflitos de horário
-- 👥 Controle de funcionários e profissionais terceirizados por especialidade
-- 🖼️ Identificação visual de usuários por imagem vinculada ao setor
-
----
 
 ## 💼 Experiência
 
@@ -106,11 +90,6 @@ Cursando **Análise e Desenvolvimento de Sistemas** e buscando uma oportunidade 
 
 ---
 
-## 🎯 Objetivo Profissional
-
-Busco uma oportunidade de **estágio ou posição júnior em desenvolvimento web** onde eu possa contribuir com projetos reais e crescer com o time. Disponível para trabalho **presencial, híbrido ou remoto** em Belo Horizonte ou de forma remota.
-
----
 
 ## 📫 Contato
 
@@ -120,4 +99,11 @@ Busco uma oportunidade de **estágio ou posição júnior em desenvolvimento web
 
 ---
 
-<p align="center"><em>Aberto a oportunidades, colaborações e projetos interessantes. Fique à vontade para entrar em contato! 🚀</em></p>
+<!-- ICONS LINGUAGES   -->
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="lads-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="lads-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="lads-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="lads-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lads-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+</div>
