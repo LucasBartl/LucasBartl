@@ -81,10 +81,14 @@ Cursando **Análise e Desenvolvimento de Sistemas** e buscando uma oportunidade 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbartl&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api??username=lucasbartl&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=lucasbartl&theme=light_github" alt="Anurag's GitHub stats" />
+  </picture>
 ---
 
 
