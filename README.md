@@ -99,29 +99,6 @@ Cursando **Análise e Desenvolvimento de Sistemas** e buscando uma oportunidade 
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasbartl&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
 
-- ...and development time:
-
-  <a href="https://wakatime.com/@alan">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=lucasbartl&theme=dark_github"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=lucasbartl&theme=light_github" alt="Alan's WakaTime stats" />
-    </picture>
-  </a>
-
-- Pin more than 6 repos in your GitHub profile:
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=lucasbartl&repo=github-readme-stats&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=lucasbartl&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
-    </picture>
-  </a>
 
 
 
